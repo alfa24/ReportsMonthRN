@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReportHelpDeskRN:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReportHelpDeskRN_jar</output-path>
+    <root id="archive" name="ReportHelpDeskRN.jar">
+      <element id="module-output" name="ReportHelpDeskRN" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-3.15.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/conf" />
+      <element id="file-copy" path="$PROJECT_DIR$/in.xls" />
+    </root>
+  </artifact>
+</component>
